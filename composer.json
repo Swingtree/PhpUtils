@@ -1,0 +1,16 @@
+{
+    "name": "swingtree/phputils",
+    "type": "library",
+    "require": {},
+    "authors": [
+        {
+            "name": "Swingtree",
+            "email": "studio@swingtree.be"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Swingtree\\PhpUtils\\": "src/"
+        }
+    }
+}
